@@ -1,0 +1,80 @@
+#nav {
+    color: yellow;
+}
+
+#nav:hover {
+    color: yellow;
+    background-color: orange;
+    text-shadow: 5px 5px black;
+}
+
+#store {
+    border-radius: 40px 40px 40px 40px;
+}
+
+#category {
+    border: 2px solid red;
+    border-radius: 20px 20px 20px 20px;
+    height: 270px;
+    width: 270px;
+}
+
+#catImg {
+    display: block;
+    width: 194px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#catH4 {
+    color: red;
+    text-align: center;
+}
+
+#product {
+    border: 2px solid red;
+    border-radius: 20px 20px 20px 20px;
+    height: 530px;
+    width: 530px;
+}
+
+#prodImg {
+    display: block;
+    width: 194px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#prodH4 {
+    color: red;
+    text-align: center;
+}
+
+#prodError{
+    margin-top: 100px;
+}
+
+.CartButton {
+    border-radius: 30px 30px 30px 30px;
+    background: transparent no-repeat;
+    border: red;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+
+#tab1 {
+    padding-left: 4em;
+}
+#tab2 {
+    padding-left: 8em;
+}
+#tab3 {
+    padding-left: 12em;
+}
+
+.cart{
+    list-style-type: none;
+}
